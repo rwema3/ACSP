@@ -1,0 +1,4 @@
+user_id,monthly_transactions,avg_transaction,savings_score,bill_payment_score,loan_default
+1001,56,120.5,0.82,0.91,0
+1002,12,35.4,0.22,0.40,1
+1003,88,210.7,0.93,0.95,0
