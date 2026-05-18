@@ -142,5 +142,5 @@ This project demonstrates how AI can support inclusive finance by enabling data-
 
 ---
 
-## Author
+## Author info: rwema.com
 Developed as part of a FinTech and AI initiative exploring machine learning applications in credit risk modeling and financial inclusion across emerging economies.
