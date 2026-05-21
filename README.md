@@ -108,6 +108,12 @@ This helps financial institutions understand:
 
 ---
 
+## Dashboard
+<img width="1791" height="857" alt="redme" src="https://github.com/user-attachments/assets/cc521869-2def-46e6-b407-1ee570f43368" />
+
+---
+
+
 ## Project Impact
 This project demonstrates how AI can support inclusive finance by enabling data-driven lending decisions for populations traditionally excluded from formal financial systems.
 
